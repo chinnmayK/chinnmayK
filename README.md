@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Chinmay K
-### Third Year CSE Student | Problem Solver | Adaptable Learner
+### Final Year CSE Student | Problem Solver | Adaptable Learner
 
-Welcome to my GitHub! I'm currently a **3rd-year Computer Science and Engineering student** with a passion for **problem-solving** and a strong foundation in **algorithms and data structures**. My adaptability allows me to quickly grasp new concepts and technologies, making me eager to take on challenges in both academic and real-world projects.
+Welcome to my GitHub! I'm currently a **4th-year Computer Science and Engineering student** with a passion for **problem-solving** and a strong foundation in **algorithms and data structures**. My adaptability allows me to quickly grasp new concepts and technologies, making me eager to take on challenges in both academic and real-world projects.
 
 ### 🚀 Skills & Interests
 
@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm currently a **3rd-year Computer Science and Engineerin
 
 - Advanced **algorithms** and **data structures**.
 - **System Design** and **Database Management**.
-- **Machine Learning** and **Artificial Intelligence** basics.
+- **Machine Learning** and **Artificial Intelligence**.
   
 ### 👯 Looking to Collaborate
 
