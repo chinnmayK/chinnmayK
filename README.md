@@ -1,57 +1,183 @@
-# Hi there! 👋 I'm Chinmay K
-### Final Year CSE Student | Problem Solver | Adaptable Learner
-
-Welcome to my GitHub! I'm currently a **4th-year Computer Science and Engineering student** with a passion for **problem-solving** and a strong foundation in **algorithms and data structures**. My adaptability allows me to quickly grasp new concepts and technologies, making me eager to take on challenges in both academic and real-world projects.
-
-### 🚀 Skills & Interests
-
-- **Programming Languages**: 
-  - Proficient in: C++, Python, Java
-  - Familiar with: JavaScript, SQL, Springboot
-- **Problem Solving**: 
-  - Love solving algorithmic challenges on platforms like LeetCode and HackerRank.
-  - Passionate about competitive programming.
-- **Data Structures & Algorithms**: 
-  - Solid understanding of arrays, linked lists, stacks, queues, trees, graphs, dynamic programming, and more.
-- **Web Development**: 
-  - Comfortable with HTML, CSS, JavaScript, and a bit of backend (Node.js, Maven, Docker).
-- **Database Management**: 
-  - Experience with SQL and basic understanding of MySQL databases.
-  
-### 🛠️ Tools & Technologies
-
-- **Version Control**: GitHub
-- **IDEs**: VS Code, IntelliJ, PyCharm
-- **Operating Systems**: Linux, Windows
-- **Cloud**: Basic knowledge of AWS
-
-### 🌱 Currently Learning
-
-- Advanced **algorithms** and **data structures**.
-- **System Design** and **Database Management**.
-- **Machine Learning** and **Artificial Intelligence**.
-  
-### 👯 Looking to Collaborate
-
-- Open to collaborating on **open-source projects** or **problem-solving** contests.
-- Love to brainstorm on **innovative ideas** and work with a team to bring them to life.
-  
-### 💬 Ask Me About
-
-- **Problem-solving techniques**
-- **Competitive programming**
-- **Data structures and algorithms**
-  
-### 📫 How to Reach Me
-
-- **Email**: chinnmayk@gmail.com
-- **LinkedIn**: www.linkedin.com/in/chinmay-k-0ba197329
-- **Portfolio**: Work in Progress
-
-### 💡 Fun Fact
-
-I believe in continuous learning and enjoy diving into new technologies and fields to expand my knowledge. When I'm not coding, you can find me reading tech blogs or playing strategy games!
 
 ---
 
-Looking forward to contributing, learning, and growing together! 😄
+<div align="center">
+
+# 👋 Hey, I’m **Chinmay K**
+
+### 🚀 Cloud • DevOps • Backend Engineering
+
+Final-year **Computer Science & Engineering student**
+Currently building **cloud-native systems**, **automated CI/CD pipelines**, and **scalable backend services**
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+%7C+AWS+%7C+Docker+%7C+CI%2FCD;Cloud-Native+Backend+Developer;Infrastructure+as+Code+%7C+Automation+First;Always+Learning+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I enjoy **turning ideas into production-ready systems**.
+
+From writing APIs ➝ containerizing them ➝ deploying on AWS ➝ automating everything with CI/CD —
+I focus on **reliability, automation, and clean architecture**.
+
+💼 **Currently working as a DevOps / Software Engineering Intern at *Techcanopy Software Labs***
+
+---
+
+## ⚡ What I Do Best
+
+```text
+✔ Build backend services
+✔ Containerize applications using Docker
+✔ Design & automate CI/CD pipelines
+✔ Deploy & monitor applications on AWS
+✔ Write clean, maintainable code
+```
+
+---
+
+## ☁️ Cloud & DevOps Stack (Core Focus)
+
+### 🟧 AWS
+
+* EC2 • ECS (Fargate) • ECR
+* Application Load Balancer (ALB)
+* IAM (roles, policies)
+* CloudWatch (logs, alarms, metrics)
+* VPC fundamentals
+
+### 🔁 CI/CD
+
+* GitHub Actions
+* AWS CodePipeline
+* Automated build → test → deploy workflows
+
+### 🐳 Containers & Infra
+
+* Docker (multi-stage builds, image optimization)
+* Nginx (reverse proxy, health checks)
+* Infrastructure as Code – **CloudFormation**
+
+---
+
+## 🧩 Backend & Databases
+
+### 🔧 Backend
+
+* Node.js
+* Java (Spring Boot)
+* REST API design
+* Authentication & role-based access
+* Microservices concepts
+
+### 🗄️ Databases
+
+* **MongoDB**
+* MySQL / SQL
+* Data modeling & schema design
+
+---
+
+## 🛠️ Tools I Work With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,nodejs,java,nginx,githubactions,mongodb,mysql,linux,git,vscode,idea" />
+</p>
+
+---
+
+## 📦 Featured Projects
+
+### 🚀 DevTrack API — *Cloud-Native Backend System*
+
+**End-to-End DevOps Project**
+
+🔹 Node.js REST API
+🔹 Dockerized & pushed to **Amazon ECR**
+🔹 Deployed on **ECS Fargate**
+🔹 Exposed via **Application Load Balancer**
+🔹 CI/CD using **GitHub Actions**
+🔹 Infrastructure via **CloudFormation**
+🔹 Logs & alarms with **CloudWatch**
+
+> A complete real-world DevOps workflow — from code to production.
+
+---
+
+### 🔁 AWS CI/CD Pipelines (Manual & Automated)
+
+* GitHub → AWS CodePipeline
+* Health-check debugging with ALB
+* Nginx-based routing & monitoring
+
+---
+
+## 🧑‍💼 Experience
+
+### 💼 **Techcanopy Software Labs**
+
+**DevOps / Software Engineering Intern** *(Current)*
+
+* Dockerizing backend services
+* Deploying applications on AWS
+* Designing and improving CI/CD pipelines
+* Working with cloud monitoring & reliability
+
+---
+
+## 🌱 Currently Exploring
+
+* Advanced AWS architecture patterns
+* Terraform alongside CloudFormation
+* Scalable CI/CD design
+* Cloud-native system design
+* MLOps fundamentals *(limited focus)*
+
+---
+
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinnmayK&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnmayK&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🤝 Let’s Collaborate On
+
+* Cloud & DevOps projects
+* Backend systems
+* CI/CD automation
+* Open-source infrastructure tools
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:chinnmayk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chinmay-k-0ba197329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 💡 Fun Fact
+
+I love **automating things that shouldn’t be manual**.
+If a process repeats twice — I try to pipeline it 😄
+
+---
+
+<div align="center">
+
+### 🚀 *Build once. Deploy everywhere. Automate everything.*
+
+</div>
+
+---
