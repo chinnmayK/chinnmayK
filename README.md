@@ -163,12 +163,17 @@ I focus on **reliability, automation, and clean architecture**.
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinnmayK&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnmayK&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinnmayK&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chinnmayK&theme=tokyonight&utcOffset=5.5" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chinnmayK&show_icons=true&theme=tokyonight" height="160"/>
+</p>
+
 
 ---
 
