@@ -86,7 +86,7 @@ I focus on **reliability, automation, and clean architecture**.
   <img src="https://skillicons.dev/icons?i=nodejs,java,python,nginx,mongodb,mysql,linux,git,vscode,idea" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,ec2,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
 </p>
 
 <p align="left">
