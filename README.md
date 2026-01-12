@@ -1,6 +1,3 @@
-
----
-
 <div align="center">
 
 # 👋 Hey, I’m **Chinmay K**
@@ -86,7 +83,36 @@ I focus on **reliability, automation, and clean architecture**.
 ## 🛠️ Tools I Work With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,nodejs,java,nginx,githubactions,mongodb,mysql,linux,git,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,python,nginx,mongodb,mysql,linux,git,vscode,idea" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,ec2,docker,githubactions" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/AWS%20SNS-232F3E?style=for-the-badge&logo=amazonsimpleNotificationService&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/AWS%20SSM-232F3E?style=for-the-badge&logo=amazonsystemsmanager&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazoniam&logoColor=orange"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CodePipeline-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/CodeBuild-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/CodeDeploy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Elastic%20Beanstalk-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/ECS-232F3E?style=for-the-badge&logo=amazonecs&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/ECR-232F3E?style=for-the-badge&logo=amazonecr&logoColor=orange"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/CloudShell-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
 </p>
 
 ---
@@ -179,5 +205,3 @@ If a process repeats twice — I try to pipeline it 😄
 ### 🚀 *Build once. Deploy everywhere. Automate everything.*
 
 </div>
-
----
