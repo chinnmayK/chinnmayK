@@ -165,7 +165,7 @@ I focus on **reliability, automation, and clean architecture**.
 
 ## 📊 GitHub Engineering Metrics
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinnmayK&theme=tokyonight" />
 </p>
 
