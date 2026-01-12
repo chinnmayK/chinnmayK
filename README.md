@@ -83,10 +83,7 @@ I focus on **reliability, automation, and clean architecture**.
 ## 🛠️ Tools I Work With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,python,nginx,mongodb,mysql,linux,git,vscode,idea" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nodejs,java,python,nginx,mongodb,mysql,linux,git,githubactions,vscode,idea" />
 </p>
 
 <p align="left">
