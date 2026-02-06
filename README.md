@@ -186,18 +186,3 @@ I focus on **reliability, automation, and clean architecture**.
   <a href="mailto:chinnmayk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/chinmay-k-0ba197329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
----
-
-## 💡 Fun Fact
-
-I love **automating things that shouldn’t be manual**.
-If a process repeats twice — I try to pipeline it 😄
-
----
-
-<div align="center">
-
-### 🚀 *Build once. Deploy everywhere. Automate everything.*
-
-</div>
